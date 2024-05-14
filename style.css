@@ -15,3 +15,8 @@ p{
     background-color: green;
     color: purple;
 }
+
+img{
+	border: 2px solid black;
+	border-radius: 10px;
+}
