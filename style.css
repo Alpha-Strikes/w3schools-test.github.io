@@ -14,6 +14,7 @@ h1{
 p{
     background-color: green;
     color: purple;
+	border: 2px solid green;
 }
 
 img{
